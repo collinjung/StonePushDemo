@@ -1,6 +1,9 @@
 # Dungeon Stone Pushing Puzzle
 Simple python demonstration of a puzzle map from our dungeon game.
 
+# Usage
+To play this level, go into the dist/ folder and click the 'map' application.
+
 # Info
 The blue square denotes the player. The round colored circles denote the stones. The colored squares denote the goal positions. The black squares denote walls.
 
